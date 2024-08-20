@@ -7,4 +7,4 @@ Green
 Blue
 Indigo
 Violet
-And a cute little kitty cat
+And a cute little kitty cat John
