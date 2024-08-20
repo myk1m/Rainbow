@@ -5,6 +5,7 @@ Orange
 Yellow
 Green
 Blue
+Pink
 Indigo
 Violet
-And a cute little kitty cat
+And a cute little orange kitty cat named Garfield
