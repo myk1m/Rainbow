@@ -5,6 +5,8 @@ Orange
 Yellow
 Green
 Blue
+Pink
 Indigo
 Violet
-And a cute little kitty cat John
+And a cute little orange kitty cat named John
+
