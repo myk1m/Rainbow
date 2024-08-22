@@ -11,4 +11,4 @@ Violet
 And a cute little orange kitty cat named Garfield
 With his best friend that's a puppy named Joseph
 They love the rainbow and would watch together whenever they see it
-James Bond is the way too go 
+Also James Bond would come along as well 
